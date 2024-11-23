@@ -19,7 +19,9 @@
 ### CRUD với Bootstrap Modal Popup
 + Bootstrap Modal Popup
 + Bootstrap Modal Dialog
+
 ![image](https://user-images.githubusercontent.com/87538251/230126288-68accaef-95ca-430a-81ce-4561ac91f82b.png)
+
 + https://www.codeproject.com/Articles/993087/Use-Twitter-Bootstrap-Modal-Dialog-for-Smoother-Lo
 + https://www.aspsnippets.com/questions/516642/Delete-record-with-confirmation-using-Bootstrap-Modal-Popup-in-ASPNet-MVC/
 + https://newbetuts.com/16011151-mvc-4-edit-modal-form-using-bootstrap
